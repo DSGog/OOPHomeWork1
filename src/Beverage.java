@@ -6,11 +6,9 @@ public class Beverage {
         this.name = name;
         this.volume = volume;
     }
-
     public String getName() {
         return name;
     }
-
     public int getVolume() {
         return volume;
     }
